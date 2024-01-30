@@ -1,5 +1,5 @@
 provider "aws" {
-  region = "us-east-1"  # Change this to your desired AWS region
+  region = "US East (Virginia)"  # Change this to your desired AWS region
 }
 
 # Create a VPC
